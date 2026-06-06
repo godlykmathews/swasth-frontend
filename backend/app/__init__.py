@@ -1,1 +1,0 @@
-"""AFTERLIFE AI FastAPI backend."""
